@@ -1,3 +1,5 @@
+this is the final version of chapter 4 and no more changes will be committed.
+
 this is the modified version of chapter 4.
 
 this is the initial version of chapter 4.
